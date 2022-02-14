@@ -1,6 +1,11 @@
 #include <iostream>
+#include <conio.h>
 
 int main() {
-	std::cout << "ereh jaegar\n";
-	std::cout << "tatakae\n";
+	
 }
+
+// W = 87
+// A = 65
+// S = 83
+// D = 68
