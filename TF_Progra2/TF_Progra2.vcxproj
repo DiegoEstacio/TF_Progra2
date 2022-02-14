@@ -122,9 +122,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CBarcoEnemigo.h" />
+    <ClInclude Include="CComponentes.h" />
+    <ClInclude Include="CContaminantes.h" />
+    <ClInclude Include="CJugador.h" />
+    <ClInclude Include="CListaBarcoEnemigo.h" />
     <ClInclude Include="formulario.h">
       <FileType>CppForm</FileType>
     </ClInclude>
+    <ClInclude Include="Juego.h" />
+    <ClInclude Include="ListaPetroleo.h" />
+    <ClInclude Include="ListaPlastico.h" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="formulario.resx">

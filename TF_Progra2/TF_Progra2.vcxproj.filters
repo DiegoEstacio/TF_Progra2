@@ -26,5 +26,29 @@
     <ClInclude Include="formulario.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="CComponentes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CJugador.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CContaminantes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CBarcoEnemigo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CListaBarcoEnemigo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListaPlastico.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListaPetroleo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Juego.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
