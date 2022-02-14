@@ -1,5 +1,6 @@
 #include <iostream>
 
 int main() {
-	std::cout << "ereh jaegar";
+	std::cout << "ereh jaegar\n";
+	std::cout << "tatakae\n";
 }
